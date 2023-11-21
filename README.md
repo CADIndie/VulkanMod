@@ -8,7 +8,7 @@ This is a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API.
 
 Demostration Video:
 
-[![Demostration Video](http://img.youtube.com/vi/sbr7UxcAmOE/0.jpg)](https://youtu.be/sbr7UxcAmOE)
+[![Demostration Video](http://img.youtube.com/vi/sbr7UxcAOE/0.jpg)](https://youtu.be/sbr7UxcAmOE)
 
 ![Download](https://img.shields.io/github/downloads/xCollateral/VulkanMod/total?color=red&logo=github&style=for-the-badge)
 
